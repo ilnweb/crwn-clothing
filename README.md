@@ -1,6 +1,6 @@
 <h1>React - crwn-clothing</h1>
 
-<p>This is a code along project from The Complete React Developer course. A complete ecommerce SPA created using create-react-app.</p>
+<p>This is a code along project from The Complete React Developer course. A finished ecommerce single page aplication created using create-react-app.</p>
 
 <a href="https://crwn-live-iln.herokuapp.com/"  target="blank"><h2>Check out project on Heroku</h2></a>
 
