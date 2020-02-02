@@ -1,10 +1,10 @@
 <h1>React - crwn-clothing</h1>
 
-<p>This is a personal portfolio project in which I created a simple photography SPA using Create-react-app.</p>
+<p>This is a code along project from The Complete React Developer course. A complete ecommerce SPA created using create-react-app.</p>
 
 <a href="https://crwn-live-iln.herokuapp.com/"  target="blank"><h2>Check out project on Heroku</h2></a>
 
-<h4>This project uses the following:</h4>
+<h4>In this project the following technologies are applyed :</h4>
 
 <ul>
 
@@ -52,4 +52,4 @@
 
 </ul>
 
-<h2>Hope you like it!</h2>
+
