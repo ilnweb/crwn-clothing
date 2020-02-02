@@ -4,7 +4,7 @@
 
 <a href="https://crwn-live-iln.herokuapp.com/"  target="blank"><h2>Check out project on Heroku</h2></a>
 
-<h4>In this project the following technologies are applyed :</h4>
+<h4>In this project the following knowedge is applyed:</h4>
 
 <ul>
 
